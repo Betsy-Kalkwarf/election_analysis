@@ -9,11 +9,13 @@ Overall, 2017 was a much better year than 2018, as you will see in the Resources
 ![alt text](https://github.com/Betsy-Kalkwarf/election_analysis/blob/main/Resources/2018%20results.png)
 
 The refactored code using arrays worked much faster. The 2017 run went from 0.73 to 0.13 seconds. 
+
 ![alt text](https://github.com/Betsy-Kalkwarf/election_analysis/blob/main/Resources/2017%20before.png)
 ![alt text](https://github.com/Betsy-Kalkwarf/election_analysis/blob/main/Resources/Refactored%202017.png)
 
 
 The 2018 run went from 0.76 to .13 seconds. 
+
 ![alt text](https://github.com/Betsy-Kalkwarf/election_analysis/blob/main/Resources/2018%20before.png)
 ![alt text](https://github.com/Betsy-Kalkwarf/election_analysis/blob/main/Resources/Refactored%202018.png)
 
