@@ -1,6 +1,6 @@
 # election_analysis
 
-##Overview of Project
+## H2 Overview of Project
 Steve wants to help his parents figure out where to invest their money. Utilizing Excel and VBA, the overall Volumes and return can be summarized for 2017 and 2018 can be visualized with the click of a button. Color coding even exists to quickly see if the return was positive or negative. The module used arrays to speed up the code.
 
 ##Results
