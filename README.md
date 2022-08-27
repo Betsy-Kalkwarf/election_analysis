@@ -17,7 +17,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 
 ### Election-Audit Results:
-The analysis of the election show that:
+The analysis of the election shows the following results:
 
 ![alt text](https://github.com/Betsy-Kalkwarf/election_analysis/blob/main/Election%20Results.png)
 
